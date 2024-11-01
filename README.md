@@ -45,6 +45,8 @@ The following image was used to highlight the pitch markings in the rules sectio
 
 Lastly, I included a background photo for the form to highlight its different structure to the rest of the website. Unfortunately, I did not manage to successfully change the file path to a relative one and had to keep to using the photos image address. 
 
+![Form Image](https://rdgusa.com/img/http/aHR0cHM6Ly9yZGctb3BlbmFzc2V0LnMzLmFtYXpvbmF3cy5jb20vb3BlbmFzc2V0LXYyL1IwMDI3LjQzNy4wMC9yMDAyNy40MzcuMDAtdW5pdmVyc2l0eS1vZi1mbG9yaWRhLWRvbmFsZC1yXzYzMzUwLmpwZw==?p=large&s=ccfe332afd04606111a749943a054d68)
+
 
 ### YouTube
 
@@ -57,11 +59,12 @@ I kept the footer simple, keeping it narrow and fixed to the bottom so it is coh
 The first fieldset is a place for clients to enter their details and all inputs are required. The seconds fieldset has 2 questions regarding their prior experience using radio and desired position they want to play using checkbox. The third fieldset is a space for any additional information that clients want to provide to help make the search for a suitable team/ club better. Lastly, the submit button was made larger and green to highlight were to submit with an additional red reset button alongside it in case they want to start the form again.
 
 
+## Testing
+
+![CSSValidator](Assets/CSS-Validator.png)
+
 ## Deployment
-I deployed the site through GitHub, using the 'Pages' section in the repository's 'Settings' tab. Under the 'Source' dropdown, I selected the branch and set the folder to 'root' before saving. The site URL is provided under the green 'Code' button in the repository, which I copied into my browser and IDE.
-
-I tested the site on Chrome and Firefox, both of which displayed it correctly. Using Google Dev Tools, I also checked mobile responsiveness across all devices, and the site performed well, thanks to the use of a responsive container. However, I encountered some challenges with the Galaxy Fold. After adjusting the text width on the Homepage and resizing the 'Sign Up' box, the design improved significantly on this device.
-
+I deployed the site through GitHub, using the 'Pages' section in the repository's 'Settings' tab. Under the 'Source' dropdown, I selected the branch and set the folder to 'root' before saving. The site URL is provided under the green 'Code' button in the repository, which I copied into my browser and IDE. I tested the site on Chrome and Firefox, both of which displayed it correctly.
 
 
 
