@@ -61,10 +61,18 @@ The first fieldset is a place for clients to enter their details and all inputs 
 
 ## Testing
 
-![CSSValidator](Assets/CSS-Validator.png)
+### Validator Testing
+Click [here](Assets/CSS-Validator.png) to see CSS validator for the style.css file.
+Click [here](Assets/HTML-validator-index.html.png) to see HTML validator for the index.html file.
+Click [here](Assets/HTML-validator-rules.html.png) to see HTML validator for the rules.html file.
+Click [here](Assets/HTML-validator-form.html.png) to see HTML validator for the form.html file.
+
+Errors were highlighted on the way and were fixed. Errors included stating a width in <img> which were deleted and were styled using the file style.css. Another error was that in the form.html file, there were repititions of the same id, so that was changed. In the Age drop down option, the first <option> did not have an empty value="" and so that was also added.
+
 
 ## Deployment
 I deployed the site through GitHub, using the 'Pages' section in the repository's 'Settings' tab. Under the 'Source' dropdown, I selected the branch and set the folder to 'root' before saving. The site URL is provided under the green 'Code' button in the repository, which I copied into my browser and IDE. I tested the site on Chrome and Firefox, both of which displayed it correctly.
+Please visit the live site by clicking [here](https://github.com/katherinewadge-berrospi/Project1.git)
 
 
 
@@ -73,22 +81,13 @@ I deployed the site through GitHub, using the 'Pages' section in the repository'
 ## Manual Testing
 I used various methods to test the accessibility of my site and the quality of my code. The testing resulted in a number of error messages and suggestions which I took note of and implemented the necessary changes.
 
-**W3Schools HTML Validator**
-1. An error was brought to my attention in the footer. I had added my GIF in the middle of my list, instead of after the list. I amended this to below the list items.
-2. I had missed out a /div on my sign up page which I added in.
-
-![HTMLValidator](assets/images/htmlvalidator.png)
-
 **Lighthouse**
 1. Lighthouse alerted me to the button background colour and text contrast not being accessible on hover. I amended the buttons so that when the hover was activated the button not only changed colour but the text also switched to contrast well with the lighter green.
 2. I added aria-labels to the navigation icons as Lighthouse flagged up that they were not accessible to screen readers.
 
 ![Lighthouse](assets/images/lighthouse.png)
 
-**W3 CSS Validator**
-1. I had a missing curly brace in my code which I added in.
 
-![CSS Validator](assets/images/cssvalidation.png)
 
 ## Future Features
 1. Ideally, I would create my own videos for the site using original content and branded with Finance First.
