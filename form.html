@@ -1,11 +1,11 @@
-<html>
-    <!DOCTYPE html>
-    <html lang="en">
+<!DOCTYPE html>
+    <HTML lang="en">
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-       <link rel="stylesheet" href="CSS/style.css"> 
-       <title>Women's Lacrosse</title>
+        <meta name="keywords" content="lacrosse, womens lacrosse, box lacrosse, charlotte north, lacrosse history, field lacrosse">
+       <link rel="stylesheet" href="CSS/style.css">
+       <title>Find a club</title>
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
@@ -37,6 +37,7 @@
                 <div>
                 <label for="age" class="block-label">Age</label>
                 <select id="age" name="age" required>
+                    <option value="">Choose age</option>
                     <option value="under-18">Under 18</option>
                     <option value="18-20">18-20</option>
                     <option value="21-25">21-25</option>
@@ -47,8 +48,8 @@
                 </div>
                 <div>
                     <label for="location" class="block-label">Location</label>
-                    <input id="location" list="location" name="location" placeholder="Your postcode" required>
-                    <datalist id="location">
+                    <input id="location" list="location-list" name="location" placeholder="Your postcode" required>
+                    <datalist id="location-list">
                         <option value="Manchester">
                         <option value="Birmingham">
                         <option value="London">
