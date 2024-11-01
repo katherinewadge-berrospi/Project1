@@ -1,7 +1,7 @@
 # Project1
 A website on Women's Lacrosse
 
-![mock-up] (Assets/ReadMeHomepage.png)
+![mock-up](Assets/ReadMeHomepage.png)
 
 Project 1 for the Code Institute. Please visit the live site [here](https://github.com/katherinewadge-berrospi/Project1.git)
 
