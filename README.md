@@ -64,6 +64,9 @@ I tested the site on Chrome and Firefox, both of which displayed it correctly. U
 
 
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Manual Testing
 I used various methods to test the accessibility of my site and the quality of my code. The testing resulted in a number of error messages and suggestions which I took note of and implemented the necessary changes.
 
