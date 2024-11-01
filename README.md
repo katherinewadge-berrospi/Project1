@@ -71,14 +71,14 @@ Errors were highlighted on the way and were fixed. Errors included stating a wid
 
 ### Lighthouse
 For Desktop:
-Click [here](Assets/Lighthouse-index.html-destop.png) for index.html
-Click [here](Assets/Lighthouse-rules.html-destop.png) for rules.html
-Click [here](Assets/Lighthouse-form.html-destop.png) for form.html
+Click [here](Assets/Lighthouse-index.html-destop.png) for index.html.
+Click [here](Assets/Lighthouse-rules.html-destop.png) for rules.html.
+Click [here](Assets/Lighthouse-form.html-destop.png) for form.html.
 
 For Mobile:
-Click [here](Assets/Lighthouse-index.html.png) for index.html
-Click [here](Assets/Lighthouse-rules.html.png) for rules.html
-Click [here](Assets/Lighthouse-form.html.png) for form.html
+Click [here](Assets/Lighthouse-index.html.png) for index.html.
+Click [here](Assets/Lighthouse-rules.html.png) for rules.html.
+Click [here](Assets/Lighthouse-form.html.png) for form.html.
 
 
 ## Deployment
