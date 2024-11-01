@@ -1,0 +1,115 @@
+<html>
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+       <link rel="stylesheet" href="CSS/style.css"> 
+       <title>Women's Lacrosse</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <header>
+            <nav class="nav-form">
+                <ul>
+                    <li><a href="index.html">Intro to Lacrosse</a></li>
+                    <li><a href="index.html#history">History</a></li>
+                    <li><a href="rules.html">Rules</a></li>
+                    <li><a href="form.html">Find a club</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main class="form-image">
+        <form action="https://formdump.codeinstitute.net" method="POST">
+            <h4 style="text-decoration: none; font-style: italic;">Let us help you find a club</h4>
+
+            <fieldset>
+                <legend>Your details</legend>
+        
+                <div class="float-left">
+                    <label for="name-field" class="block-label">Name</label>
+                    <input id="name-field" type="text" name="full_name" placeholder="Your name" required>
+                </div>
+                <div class="float-left">
+                    <label for="email-field" class="block-label">Email</label>
+                    <input id="email-field" type="email" name="email" placeholder="Your email" required>
+                </div>
+                <div>
+                <label for="age" class="block-label">Age</label>
+                <select id="age" name="age" required>
+                    <option value="under-18">Under 18</option>
+                    <option value="18-20">18-20</option>
+                    <option value="21-25">21-25</option>
+                    <option value="26-30">26-30</option>
+                    <option value="30-39">30-39</option>
+                    <option value="40+">40+</option>
+                </select>
+                </div>
+                <div>
+                    <label for="location" class="block-label">Location</label>
+                    <input id="location" list="location" name="location" placeholder="Your postcode" required>
+                    <datalist id="location">
+                        <option value="Manchester">
+                        <option value="Birmingham">
+                        <option value="London">
+                        <option value="Nottinham">
+                        <option value="Exeter">
+                        <option value="Newcastle">
+                        <option value="Cardiff">
+                        <option value="Glasgow">
+                    </datalist>
+                </div>
+
+            </fieldset>
+            <fieldset>
+                <legend>Lacrosse Experience</legend>
+                        
+                <p>Have you ever played lacrosse before?</p>
+    
+                <input id="0-2cups-radio" name="cups-a-day" value="0-2cups" type="radio" required>
+                <label for="0-2cups-radio">Never</label>
+    
+                <input id="3-5cups-radio" name="cups-a-day" value="3-5cups" type="radio" required>
+                <label for="3-5cups-radio">I used to play</label>
+    
+                <input id="6-8cups-radio" name="cups-a-day" value="6-8cups" type="radio" required>
+                <label for="6-8cups-radio">I play recreationally</label>
+    
+                <input id="9plus-cups-radio" name="cups-a-day" value="9plus-cups" type="radio" required>
+                <label for="9plus-cups-radio">I am a competitive player</label>
+
+                <p>What position do you/ would you like to play?</p>
+                <div>
+                    <input type="checkbox" id="attack-checkbox" name="attack">
+                    <label for="attack-checkbox">Attack</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="defence-checkbox" name="defence">
+                    <label for="defence-checkbox">Defence</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="midfield-checkbox" name="midfield">
+                    <label for="midfield-checkbox">Midfield</label>
+                </div>
+                <div>
+                    <input type="checkbox" id="goalie-checkbox" name="goalie">
+                    <label for="goalie-checkbox">Goal Keeper</label>
+                </div>
+            </fieldset>
+            <fieldset>
+                    <legend>Additional Information</legend>
+                    <label for="additional-info" class="block-label">Do you have any additional information to help us find you a suitable club? <br> <em>E.g. Are you willing to drive an hour to the club?</em></label>
+                    <br>
+                    <textarea id="additional-info" rows="5" cols="90" name="additional-info"></textarea>
+            </fieldset>
+                <p><em>Please allow up to 48 hours for a response from our team, thank you</em></p>
+                <input type="submit" value="Find a Club">
+                <input type="reset" value="Reset Form">
+        
+        </form>
+        </main> 
+        <footer>
+            <p>Copyright &copy; 2024 Women's Lacrosse</p>
+        </footer>
+    </body>
+</html>
