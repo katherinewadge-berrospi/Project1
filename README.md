@@ -63,21 +63,30 @@ The first fieldset is a place for clients to enter their details and all inputs 
 
 ### Validator Testing
 Click [here](Assets/CSS-Validator.png) to see CSS validator for the style.css file.
+
 Click [here](Assets/HTML-validator-index.html.png) to see HTML validator for the index.html file.
+
 Click [here](Assets/HTML-validator-rules.html.png) to see HTML validator for the rules.html file.
+
 Click [here](Assets/HTML-validator-form.html.png) to see HTML validator for the form.html file.
 
 Errors were highlighted on the way and were fixed. Errors included stating a width in <img> which were deleted and were styled using the file style.css. Another error was that in the form.html file, there were repititions of the same id, so that was changed. In the Age drop down option, the first <option> did not have an empty value="" and so that was also added.
 
 ### Lighthouse
 For Desktop:
+
 Click [here](Assets/Lighthouse-index.html-destop.png) for index.html.
+
 Click [here](Assets/Lighthouse-rules.html-destop.png) for rules.html.
+
 Click [here](Assets/Lighthouse-form.html-destop.png) for form.html.
 
 For Mobile:
+
 Click [here](Assets/Lighthouse-index.html.png) for index.html.
+
 Click [here](Assets/Lighthouse-rules.html.png) for rules.html.
+
 Click [here](Assets/Lighthouse-form.html.png) for form.html.
 
 
