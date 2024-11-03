@@ -8,9 +8,9 @@ Project 1 for the Code Institute. Please visit the live site [here](https://gith
 Contents
 1. [Introduction](#introduction)
 2. [Features](#features)
-3. [Manual Testing](#testing)
+3. [Testing](#testing)
 4. [Deployment](#deployment)
-5. [Future Features](#future)
+5. [Future](#future)
 6. [Credits](#credits) 
 
 ## Introduction
@@ -95,11 +95,14 @@ I deployed the site through GitHub, using the 'Pages' section in the repository'
 Please visit the live site by clicking [here](https://github.com/katherinewadge-berrospi/Project1.git)
 
 
-## Future Features
+## Future
 1. An interactive map feature could be added that pinpoints the closest clubs to the clients location.
 2. A full gallery could be added.
 3. For a complete picture of the sport, include pages on box lacrosse and men's lacrosse and their current number 1 players.
 4. Links to the full set of rules, but for this I would have to target a specific countries rules as they can differ.
+5. Add more interactive features such as changing the nav bar list items into icons when on their page.
+
+## Credits
 
 
 
