@@ -23,10 +23,10 @@ Contents:
 ## Introduction
 
 ### Audience:
-Women's Lacrosse is an informative website aimed at exposing the great sport to a wider audience. It raises awareness of  its rich history and how the sport has evolved over centuries. 
+Women's Lacrosse is an informative website aimed at exposing the great sport to a wider audience. It raises awareness of its rich history and how the sport has evolved over centuries. 
 
 ### Client side:
-This site is easy to use with clear sections and a fixed navigation bar so they can easily go between pages. It uses simple yet flexible layouts that works on all devices. A consistent colour scheme and simple font design draws in the readerwhilst not distracting from the information. There is also a form where client users can upload their information and we provide a service to look for a local team suited to their needs.
+This site is easy to use with clear sections and a fixed navigation bar so they can easily move between pages. It uses simple yet flexible layouts that work on all devices. A consistent colour scheme and simple font design draws in the reader whilst not distracting from the information. There is also a form where client users can upload their information and we provide a service to look for a local team suited to their needs.
 
 
 ## Features
@@ -50,7 +50,7 @@ The following image was used to highlight the pitch markings in the rules sectio
 
 ![Rules Image](Assets/Women's Field Diagram.jpg)
 
-Lastly, I included a background photo for the form to highlight its different structure to the rest of the website. Unfortunately, I did not manage to successfully change the file path to a relative one and had to keep to using the photos image address. 
+Lastly, I included a background photo for the form to highlight its different structure to the rest of the website. Unfortunately, I did not manage to successfully change the file path to a relative one and had to keep to using the photo's image address. 
 
 ![Form Image](https://rdgusa.com/img/http/aHR0cHM6Ly9yZGctb3BlbmFzc2V0LnMzLmFtYXpvbmF3cy5jb20vb3BlbmFzc2V0LXYyL1IwMDI3LjQzNy4wMC9yMDAyNy40MzcuMDAtdW5pdmVyc2l0eS1vZi1mbG9yaWRhLWRvbmFsZC1yXzYzMzUwLmpwZw==?p=large&s=ccfe332afd04606111a749943a054d68)
 
@@ -63,7 +63,7 @@ I chose the short YouTube clip named "History of Lacrosse in 60 seconds" as it w
 I kept the footer simple, keeping it narrow and fixed to the bottom so it is coherent with the navigation bar as well as using complimentary fonts and colours.
 
 ### Form
-The first fieldset is a place for clients to enter their details and all inputs are required. The seconds fieldset has 2 questions regarding their prior experience using radio and desired position they want to play using checkbox. The third fieldset is a space for any additional information that clients want to provide to help make the search for a suitable team/ club better. Lastly, the submit button was made larger and green to highlight were to submit with an additional red reset button alongside it in case they want to start the form again.
+The first fieldset is a place for clients to enter their details and all inputs are required. The seconds fieldset has 2 questions regarding their prior experience using a radio element and desired position they want to play using checkbox. The third fieldset is a space for any additional information that clients want to provide to help make the search for a suitable team/club better. Lastly, the submit button was made larger and green to highlight where to submit with an additional red reset button alongside it in case they want to start the form again.
 
 
 ## Testing
@@ -97,7 +97,7 @@ Click [here](Assets/Lighthouse-rules.html.png) for rules.html.
 Click [here](Assets/Lighthouse-form.html.png) for form.html.
 
 ### Unfixed bugs
-Whilst I managed to fix most bugs, there were some that fell throguh the cracks. The "Welcome to Women's Lacrosse" title is not central o nthe screen like the rules title. Additionallly, when trying to generate a mock up image that included a sample photo of the homescreen on different devices, my link would not work for unknown reasons, so instead I included separate image files in the ReadMe to illustrate how my website looks on different devices.
+Whilst I managed to fix most bugs, there were some that fell throguh the cracks. The "Welcome to Women's Lacrosse" title is not central on the screen like the rules title. Additionallly, when trying to generate a mock up image that included a sample photo of the homescreen on different devices, my link would not work for unknown reasons, so instead I included separate image files in the ReadMe to illustrate how my website looks on different devices.
 
 
 ## Deployment
