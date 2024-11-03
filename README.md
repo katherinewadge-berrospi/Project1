@@ -1,11 +1,18 @@
 # Project1
-A website on Women's Lacrosse
+A website on Women's Lacrosse.
 
+Desktop:
 ![mock-up](Assets/ReadMeHomepage.png)
+
+Medium device (max width 992px):
+![mock-up](Assets/Homepage-max-width-992px.png)
+
+Small device (max width 452px):
+![mock-up](Assets/Homepage-max-width-452px.png)
 
 Project 1 for the Code Institute. Please visit the live site [here](https://github.com/katherinewadge-berrospi/Project1.git)
 
-Contents
+Contents:
 1. [Introduction](#introduction)
 2. [Features](#features)
 3. [Testing](#testing)
@@ -89,6 +96,9 @@ Click [here](Assets/Lighthouse-rules.html.png) for rules.html.
 
 Click [here](Assets/Lighthouse-form.html.png) for form.html.
 
+### Unfixed bugs
+Whilst I managed to fix most bugs, there were some that fell throguh the cracks. The "Welcome to Women's Lacrosse" title is not central o nthe screen like the rules title. Additionallly, when trying to generate a mock up image that included a sample photo of the homescreen on different devices, my link would not work for unknown reasons, so instead I included separate image files in the ReadMe to illustrate how my website looks on different devices.
+
 
 ## Deployment
 I deployed the site through GitHub, using the 'Pages' section in the repository's 'Settings' tab. Under the 'Source' dropdown, I selected the branch and set the folder to 'root' before saving. The site URL is provided under the green 'Code' button in the repository, which I copied into my browser and IDE. I tested the site on Chrome and Firefox, both of which displayed it correctly.
@@ -127,3 +137,5 @@ https://www.w3schools.com/html/html_youtube.asp
 https://www.w3schools.com/css/css3_backgrounds.asp
 https://github.com/Code-Institute-Solutions/readme-template?tab=readme-ov-file
 https://learn.codeinstitute.net/sandbox/api/challenges/60338cca9c4983ac5d855130/files/index.html#home
+
+Thank you to my Mentor Spencer Barriball for his support.
