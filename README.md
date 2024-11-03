@@ -1,4 +1,4 @@
-# Project1
+# Project 1
 A website on Women's Lacrosse.
 
 Desktop:
@@ -116,26 +116,39 @@ Please visit the live site by clicking [here](https://github.com/katherinewadge-
 
 ### Images
 https://images.squarespace-cdn.com/content/v1/59f9cf6de9bfdf609e447562/9c4b5903-a8ec-4ce4-8971-ac189c434326/230415+England+U21s+050.jpg
+
 https://theacc.com/images/2022/6/2/North2.jpg
+
 https://stanprucha.com/wp-content/uploads/2020/02/Artificial-Green-Grass-Football-Soccer-Field-Pitch-White-Stripe-Close-up-DSC01417-21-06-18.jpg
+
 https://rdgusa.com/img/http/aHR0cHM6Ly9yZGctb3BlbmFzc2V0LnMzLmFtYXpvbmF3cy5jb20vb3BlbmFzc2V0LXYyL1IwMDI3LjQzNy4wMC9yMDAyNy40MzcuMDAtdW5pdmVyc2l0eS1vZi1mbG9yaWRhLWRvbmFsZC1yXzYzMzUwLmpwZw==?p=large&s=ccfe332afd04606111a749943a054d68
+
 https://generalssports.com/images/2019/10/11/WLacrosse98004.jpg?width=1600&height=900&mode=max
+
 
 ### Video link:
 https://www.youtube.com/watch?v=n1rvmAh155g
 
 ### Website Validators:
 https://validator.w3.org/
+
 https://jigsaw.w3.org/css-validator/
+
 Google Dev Tools - Lighthouse
 
 ### Tutorials and avdvice:
 https://www.youtube.com/watch?v=VyaHwvPWuZU
+
 https://www.shecodes.io/athena/5516-adding-a-local-image-to-an-html-file#google_vignette
+
 https://web.qhmit.com/css/flexbox/tutorial/create_a_website_layout_with_flexbox.cfm
+
 https://www.w3schools.com/html/html_youtube.asp
+
 https://www.w3schools.com/css/css3_backgrounds.asp
+
 https://github.com/Code-Institute-Solutions/readme-template?tab=readme-ov-file
+
 https://learn.codeinstitute.net/sandbox/api/challenges/60338cca9c4983ac5d855130/files/index.html#home
 
 Thank you to my Mentor Spencer Barriball for his support.
