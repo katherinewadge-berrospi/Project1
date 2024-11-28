@@ -21,6 +21,8 @@ main {
     align-content:normal;
 }
 
+/* includes flexbox */
+
 section {
     width: 100%;
     display: flex;
@@ -79,6 +81,8 @@ a {
     align-content: center;
 }
 
+/* headings */
+
 h1 {
     font-size: 2.5rem;
     text-transform: uppercase;
@@ -110,10 +114,15 @@ header h1 {
 }
 
 
-/* header and footer specific */
+/* navigation bar */
+
+header {
+    margin-left: 0;
+}
 
 nav ul {
     list-style: none;
+    display: inline-block;
     text-transform: capitalize;
     background-color: #0f5a2ce3;
     background-image: url("https://stanprucha.com/wp-content/uploads/2020/02/Artificial-Green-Grass-Football-Soccer-Field-Pitch-White-Stripe-Close-up-DSC01417-21-06-18.jpg");
@@ -152,6 +161,8 @@ nav a:hover {
     border-radius: 10px;
     font-weight: bolder;
 }
+
+/* footer specific */
 
 footer {
     text-align: center;
